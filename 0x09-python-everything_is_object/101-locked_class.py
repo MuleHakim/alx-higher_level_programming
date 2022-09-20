@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 class LockedClass:
     """ No class or object attributes, can't set
